@@ -1,3 +1,6 @@
 [submodule "subsim/RakNet"]
 	path = subsim/RakNet
 	url = https://github.com/facebookarchive/RakNet
+[submodule "asterisk_conf/asterisk-python"]
+	path = asterisk_conf/asterisk-python
+	url = https://github.com/rdegges/asterisk-python/
